@@ -32,8 +32,10 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Link to video of working app!
 
+https://drive.google.com/file/d/1tHfo0KmLu23_cjAshTRgVxb6SzlSjAhy/view
+
 ## Screenshots of generated app!
 
-![Screenshot of Deployed app]()
+![Screenshot of Deployed app](screenshots/commandLine.png)
 
-![Screenshot of Deployed app]()
+![Screenshot of Deployed app](screenshots/insomnia.png)
