@@ -30,6 +30,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Video of working app!
 
+[Untitled_ Mar 14, 2024 6_59 PM.webm](https://github.com/jacksonjjones/thirsty_flower/assets/152823903/81384def-3b20-4eaf-a220-623153cbe8c9)
+
 ## Link to video of working app!
 
 https://drive.google.com/file/d/1tHfo0KmLu23_cjAshTRgVxb6SzlSjAhy/view
